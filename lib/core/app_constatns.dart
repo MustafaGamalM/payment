@@ -6,7 +6,7 @@ class ApPConstatns {
   static const String refCodeEndPoint = "acceptance/payments/pay";
 
   static const String apiKey =
-      "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2TnpRek1EVTBMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkuajJJOW9WQm1tRXJuSzhZdGM3aWU0bHhxdWVzREpMX1laRmFIOHFBdzBfWGhrR2xReTVidTd2TlRYZkNHUlkzRmlyd0dIWVBZMkw5Q3dLZDNpRnQzRmc=";
+      "";
 
   static String authTokenFirst = "";
   static int orderId = 0;
